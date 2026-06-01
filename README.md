@@ -22,3 +22,5 @@ Objective:
 
 Conclusion:
     The dashboard effectively consolidates business data into a single interactive reporting solution, enabling users to track financial performance, compare         business segments, and gain valuable insights for improving operational efficiency and profitability.
+
+dashboard link:https://github.com/06akshita/Business-performance-analytics-excel-project01/blob/main/business%20performance%20dashboard.png
